@@ -116,8 +116,9 @@
          <text xml:lang="eng">
             <front>
                <div type="title_page">
-                  <pb facs="tcp:004593_0000_100DA7A4E47FC000"/>
-                  <pb facs="tcp:004593_0001_100DA7A727538140" rendition="simple:additions"/>
+                  <pb facs="unknown:004593_0000_100DA7A4E47FC000"/>
+                  <pb facs="unknown:004593_0001_100DA7A727538140"
+                      rendition="simple:additions"/>
                   <p>POEMS <hi>On ſeveral Occaſions,</hi> BY <hi>Aquila Roſe: To which are prefixed,</hi> Some other Pieces writ to him, and to his Memory after his Deceaſe.</p>
                   <p>Collected and publiſhed by his Son <hi>Joſeph Roſe,</hi> of <hi>Philadelphia.</hi>
                   </p>
@@ -125,7 +126,7 @@
                      <hi>PHILADELPHIA:</hi> Printed at the <hi>New Printing-Office,</hi> near the <hi>Market.</hi> 1740.</p>
                </div>
                <div type="note">
-                  <pb facs="tcp:004593_0002_100DA7AA30DAF928"/>
+                  <pb facs="unknown:004593_0002_100DA7AA30DAF928"/>
                   <head>ADVERTISEMENT.</head>
                   <p>THE good Reception the poetical manuſcript Writings of my deceaſed Father <hi>Aquila Roſe,</hi> have met with in this Province, from Men of Wit and Taſte, with a Deſire of ſome of thoſe to ſee them printed, induced me to collect what I could: But, many of his beſt Pieces were lent out, after his Deceaſe, by my Mother, to Perſons who have forgot to return them: And, perhaps the publiſhing theſe few, will put them in Mind of ſending them to me.</p>
                   <p>I ſhould be wanting in Gratitude, if I did not return my humble Thanks to thoſe careful People who have favour'd me with the Pieces I now publiſh to the World; and to the Gentlemen, my Father's Friends, for their nice Encomiums to his Memory.</p>
@@ -136,7 +137,7 @@
             </front>
             <body>
                <div type="poem">
-                  <pb n="3" facs="tcp:004593_0003_100DA7AD07CF2540"/>
+                  <pb n="3" facs="unknown:004593_0003_100DA7AD07CF2540"/>
                   <head>TO THE MEMORY OF AQUILA ROSE, <hi>Deceas'd.</hi>
                   </head>
                   <lg>
@@ -167,7 +168,7 @@
                      <l>"I fly from Love, and <hi>Silvia</hi> ſee no more.</l>
                   </lg>
                   <lg>
-                     <pb n="4" facs="tcp:004593_0004_100DA7AE96BC05C8"/>
+                     <pb n="4" facs="unknown:004593_0004_100DA7AE96BC05C8"/>
                      <l>Long then the Wand'rer ſail'd from Land to Land.</l>
                      <l>To ſervile Buſineſs of rough Seas conſtrain'd:</l>
                      <l>Yet not the leſs, where e'er their Veſſel ſteer'd</l>
@@ -206,7 +207,7 @@
                      <l>"Depriv'd of Health, and every boſom Friend,</l>
                      <l>"When ſhall my Toils, my lengthening Sorrows end;</l>
                      <l>
-                        <pb n="5" facs="tcp:004593_0005_100DA7B0AF1BD468"/>
+                        <pb n="5" facs="unknown:004593_0005_100DA7B0AF1BD468"/>
 "My own low Genius here forſakes me too,</l>
                      <l>"And nothing for myſelf, myſelf can do:</l>
                      <l>"But can the Muſe by grievous Tempeſts toſt,</l>
@@ -244,7 +245,7 @@
                      <l>O'erjoy'd to find himſelf ſo much careſs'd,</l>
                      <l>His grateful Thoughts, he thus to them expreſs'd,</l>
                      <l>
-                        <pb n="6" facs="tcp:004593_0006_100DA7B25260F4C0"/>
+                        <pb n="6" facs="unknown:004593_0006_100DA7B25260F4C0"/>
 "Tho' Agues late did chill, and Fevers burn,</l>
                      <l>"Tho' Cares have Wrinkles in my Forehead worn,</l>
                      <l>"I'll ſmiling bleſs, and mark the Day with white,</l>
@@ -284,7 +285,7 @@
                      <l>Now here the Bard by his own Choice was ty'd,</l>
                      <l>(Renouncing further Rambling) to a Bride;</l>
                      <l>
-                        <pb n="7" facs="tcp:004593_0007_100DA7B51BA83EF8"/>
+                        <pb n="7" facs="unknown:004593_0007_100DA7B51BA83EF8"/>
                         <hi>Albion</hi> for <hi>Pennſylvania</hi> he reſigns,</l>
                      <l>And now no more at <hi>Sylvia</hi>'s Loſs repines:</l>
                      <l>Thoſe youthful Wounds, that bled ſo freely there,</l>
@@ -329,7 +330,7 @@
                      <l>The Grantors ſaw, could ſuch a Work be done</l>
                      <l>As he with Vigour by himſelf begun,</l>
                      <l>
-                        <pb n="8" facs="tcp:004593_0008_100DA7B7B5A379D0"/>
+                        <pb n="8" facs="unknown:004593_0008_100DA7B7B5A379D0"/>
 Both Town and Country muſt Advantage find</l>
                      <l>Their Commerce and their Int'reſt cloſer join'd.</l>
                   </lg>
@@ -376,7 +377,7 @@ Both Town and Country muſt Advantage find</l>
                      <l>That terrifies not, but delights the Heart.)</l>
                      <l>
                         <pb n="9"
-                            facs="tcp:004593_0009_100DA7B94CCD38C0"
+                            facs="unknown:004593_0009_100DA7B94CCD38C0"
                             rendition="simple:additions"/>
 Look on the Stream as it pacifick flows,</l>
                      <l>Which largely bending, more the Proſpect ſhows,</l>
@@ -417,7 +418,7 @@ Look on the Stream as it pacifick flows,</l>
                         </gap>
                      </l>
                      <l>
-                        <pb n="10" facs="tcp:004593_0010_100DA7BC521EBBA0"/>
+                        <pb n="10" facs="unknown:004593_0010_100DA7BC521EBBA0"/>
 But his gay-colour'd Plumage forms a Show</l>
                      <l>As mix'd and vivid as the Sky's fair Bow.</l>
                   </lg>
@@ -465,7 +466,7 @@ But his gay-colour'd Plumage forms a Show</l>
                      <l>'Till overpower'd by <hi>Febris</hi> raging Flame;</l>
                      <l>
                         <pb n="11"
-                            facs="tcp:004593_0011_100DA7BE982438B8"
+                            facs="unknown:004593_0011_100DA7BE982438B8"
                             rendition="simple:additions"/>
 Which freezing Juices into boiling turn'd,</l>
                      <l>Scalded the Veins, and ſore the Vitals burn'd.</l>
@@ -509,7 +510,7 @@ Which freezing Juices into boiling turn'd,</l>
                      <l>"There taught him Songs, immortal as your State,</l>
                      <l>"Beyond the Reach of Envy and of Fate?</l>
                      <l>
-                        <pb n="12" facs="tcp:004593_0012_100DA7C0A75584E0"/>
+                        <pb n="12" facs="unknown:004593_0012_100DA7C0A75584E0"/>
 "Once were ye pleas'd your Poet to inſpire,</l>
                      <l>"And warm his Boſom with your ſacred Fire;</l>
                      <l>"Whence Odes, and Hymns, and happieſt Verſe did flow,</l>
@@ -550,7 +551,7 @@ Which freezing Juices into boiling turn'd,</l>
                   </lg>
                </div>
                <div type="poems">
-                  <pb facs="tcp:004593_0013_100DA7C3AC2529A8"/>
+                  <pb facs="unknown:004593_0013_100DA7C3AC2529A8"/>
                   <head>
                      <hi>POEMS</hi> On ſeveral Occaſions,</head>
                   <div type="poem">
@@ -577,7 +578,7 @@ Which freezing Juices into boiling turn'd,</l>
                         <l>And who forbids ſome Pow'r divine to keep</l>
                         <l>From angry Gods, the torn and ſhater'd Ship:</l>
                         <l>
-                           <pb n="14" facs="tcp:004593_0014_100DA7C5463C7B38"/>
+                           <pb n="14" facs="unknown:004593_0014_100DA7C5463C7B38"/>
 The grievous Waters waſh me as I pray,</l>
                         <l>And horrid Winds enforce my Words away:</l>
                         <l>Thro' the hoarſe Noiſe no pitying God can hear</l>
@@ -613,7 +614,7 @@ The grievous Waters waſh me as I pray,</l>
                         <l>How hard, ye Fates, ſhould I reſign my Breath!</l>
                         <l>She being here, 'twould make a double Death:</l>
                         <l>
-                           <pb n="15" facs="tcp:004593_0015_100DA7C76C7ACB88"/>
+                           <pb n="15" facs="unknown:004593_0015_100DA7C76C7ACB88"/>
 Myſelf alone can all my Pains endure,</l>
                         <l>And longer live, while my lov'd Fair's ſecure.</l>
                      </lg>
@@ -651,7 +652,7 @@ Myſelf alone can all my Pains endure,</l>
                         <l>Uſe all your Power to ſave, I'm wretched ſtill,</l>
                         <l>Exil'd and puniſh'd for my conſcious Ill.</l>
                         <l>
-                           <pb n="16" facs="tcp:004593_0016_100DA7CA4E7F6918"/>
+                           <pb n="16" facs="unknown:004593_0016_100DA7CA4E7F6918"/>
 I plow no Waves to find the Sweets of Gain;</l>
                         <l>Nor heap up Wealth from <hi>Mexico</hi> or <hi>Spain:</hi>
                         </l>
@@ -691,7 +692,7 @@ I plow no Waves to find the Sweets of Gain;</l>
                         <l>If his Commands alone to me is Fate;</l>
                         <l>
                            <pb n="17"
-                               facs="tcp:004593_0017_100DA7CCAB7D5CA0"
+                               facs="unknown:004593_0017_100DA7CCAB7D5CA0"
                                rendition="simple:additions"/>
 If happy Days I liv'd in his bleſt Reign,</l>
                         <l>And offer'd Pray'rs for <hi>Caeſar</hi>'s kindred Train;</l>
@@ -732,7 +733,7 @@ If happy Days I liv'd in his bleſt Reign,</l>
                         <l>But when, by Reas'ning, I diſpel'd theſe Fears,</l>
                         <l>Strong were my Senſes in the midſt of Cares.</l>
                         <l>
-                           <pb n="18" facs="tcp:004593_0018_100DA7CE4B819268"/>
+                           <pb n="18" facs="unknown:004593_0018_100DA7CE4B819268"/>
 I ſpeak to my ſad Friends, and bid Adieu:</l>
                         <l>(Great Numbers now are dwindled into few.)</l>
                         <l>A thouſand Things I ſaid, a Thouſand loſt,</l>
@@ -768,7 +769,7 @@ I ſpeak to my ſad Friends, and bid Adieu:</l>
                         <l>So may he find no wicked Crime I meant</l>
                         <l>To cauſe this Rage and grievous Puniſhment.</l>
                         <l>
-                           <pb n="19" facs="tcp:004593_0019_100DA7D156C452C8"/>
+                           <pb n="19" facs="unknown:004593_0019_100DA7D156C452C8"/>
 If you're appeas'd, I'm made a full Amends;</l>
                         <l>Who can be wretched when the Gods are Friends?</l>
                         <l>When on my Knees this humble Pray'r I made,</l>
@@ -806,7 +807,7 @@ If you're appeas'd, I'm made a full Amends;</l>
                         <l>But ſay, my Friends, why ſhou'd I haſte away?</l>
                         <l>In Baniſhment 'tis juſt to make delay.</l>
                         <l>
-                           <pb n="20" facs="tcp:004593_0020_100DA7D3F17E3250"/>
+                           <pb n="20" facs="unknown:004593_0020_100DA7D3F17E3250"/>
 Why ſhou'd I ſwift to barbarous <hi>Soythia</hi> run,</l>
                         <l>And fly the Lands I once cou'd call my own;</l>
                         <l>Baniſh'd my Country, baniſh'd from my Wife,</l>
@@ -846,7 +847,7 @@ Why ſhou'd I ſwift to barbarous <hi>Soythia</hi> run,</l>
                         <l>I'll add but little Murden to the Ship,</l>
                         <l>And ſtrive to eaſe thy Troubles on the Deep.</l>
                         <l>
-                           <pb n="21" facs="tcp:004593_0021_100DA7D58FDA2AA0"/>
+                           <pb n="21" facs="unknown:004593_0021_100DA7D58FDA2AA0"/>
 When thou art drove by <hi>Caeſar</hi>'s Wrath away,</l>
                         <l>My Piety commands me not to ſtay;</l>
                         <l>That ſhall itſelf to me a <hi>Caeſar</hi> prove,</l>
@@ -890,7 +891,7 @@ When thou art drove by <hi>Caeſar</hi>'s Wrath away,</l>
                         <l>O what ſtrong Winds now blacken all the Sea!</l>
                         <l>What mountain Waves their ſoamy Heads diſplay!</l>
                         <l>
-                           <pb n="22" facs="tcp:004593_0022_100DA7D76E5B7E20"/>
+                           <pb n="22" facs="unknown:004593_0022_100DA7D76E5B7E20"/>
 On the ſtrong Deck the giant Billows leap,</l>
                         <l>And waſh the painted Gods that grace the Ship.</l>
                         <l>The Veſſel's ſelf groans at our fatal Woes,</l>
@@ -933,7 +934,7 @@ On the ſtrong Deck the giant Billows leap,</l>
                   </div>
                   <div type="poem">
                      <pb n="23"
-                         facs="tcp:004593_0023_100DA7DA20632340"
+                         facs="unknown:004593_0023_100DA7DA20632340"
                          rendition="simple:additions"/>
                      <head>To his Companion at <hi>Sea.</hi>
                      </head>
@@ -969,7 +970,7 @@ On the ſtrong Deck the giant Billows leap,</l>
                      </lg>
                   </div>
                   <div type="poem">
-                     <pb n="24" facs="tcp:004593_0024_100DA7DD1065D870"/>
+                     <pb n="24" facs="unknown:004593_0024_100DA7DD1065D870"/>
                      <head>
                         <hi>To</hi> Richard Hill, <abbr>Eſq</abbr>
                      </head>
@@ -1016,7 +1017,7 @@ On the ſtrong Deck the giant Billows leap,</l>
                         <l>True in each Sentence, and in ev'ry Cauſe:</l>
                         <l>
                            <pb n="25"
-                               facs="tcp:004593_0025_100DA7DF6A318380"
+                               facs="unknown:004593_0025_100DA7DF6A318380"
                                rendition="simple:additions"/>
 With ſo divine a Hand you Juſtice deal,</l>
                         <l>From you we ſcarcely dare to Heav'n appeal.</l>
@@ -1051,7 +1052,7 @@ With ſo divine a Hand you Juſtice deal,</l>
                         <l>Some ſacred Pow'r muſt ſure your Wiſdom ſend,</l>
                         <l>When Virtue, Peace and Concord is the End.</l>
                         <l>
-                           <pb n="26" facs="tcp:004593_0026_100DA7E1515DADC0"/>
+                           <pb n="26" facs="unknown:004593_0026_100DA7E1515DADC0"/>
 The <hi>Indian</hi> Children ſhall be taught thy Name,</l>
                         <l>And Woods and Rivers echo with thy Fame:</l>
                         <l>The <hi>Saſquehannah</hi> Banks ſhall take the Sound,</l>
@@ -1094,7 +1095,7 @@ The <hi>Indian</hi> Children ſhall be taught thy Name,</l>
                   </div>
                   <div type="poem">
                      <pb n="27"
-                         facs="tcp:004593_0027_100DA7E3C97854E8"
+                         facs="unknown:004593_0027_100DA7E3C97854E8"
                          rendition="simple:additions"/>
                      <head>To Mr. <hi>W—M C—R,</hi> on the Death of his Wife.</head>
                      <lg>
@@ -1133,7 +1134,7 @@ The <hi>Indian</hi> Children ſhall be taught thy Name,</l>
                      </lg>
                   </div>
                   <div type="poem">
-                     <pb n="28" facs="tcp:004593_0028_100DA7E6C4DD25D0"/>
+                     <pb n="28" facs="unknown:004593_0028_100DA7E6C4DD25D0"/>
                      <head>On the Death of his Friend's much-lov'd Child.</head>
                      <epigraph>
                         <q>
@@ -1188,7 +1189,7 @@ The <hi>Indian</hi> Children ſhall be taught thy Name,</l>
                      </lg>
                      <lg>
                         <pb n="29"
-                            facs="tcp:004593_0029_100DA7EA03D9CB48"
+                            facs="unknown:004593_0029_100DA7EA03D9CB48"
                             rendition="simple:additions"/>
                         <l>Mean were our Joys, too worthleſs, and too vile,</l>
                         <l>That would his Truth and Innocence beguile:</l>
@@ -1241,7 +1242,7 @@ The <hi>Indian</hi> Children ſhall be taught thy Name,</l>
                         </l>
                      </lg>
                      <lg>
-                        <pb n="30" facs="tcp:004593_0030_100DA7EBB2548D50"/>
+                        <pb n="30" facs="unknown:004593_0030_100DA7EBB2548D50"/>
                         <l>No more, my Friends, let Sorrow thus ariſe,</l>
                         <l>Nor pierce with your Complaints the diſtant Skies:</l>
                         <l>Let holy <hi>David</hi> mitigate your Grief,</l>
@@ -1287,7 +1288,7 @@ The <hi>Indian</hi> Children ſhall be taught thy Name,</l>
                         <l>Thy Due in Praiſe is too too much for me,</l>
                         <l>And my weak Verſe is ſcarcely worthy thee;</l>
                         <l>
-                           <pb n="31" facs="tcp:004593_0031_100DA7EE095991E8"/>
+                           <pb n="31" facs="unknown:004593_0031_100DA7EE095991E8"/>
 Yet I this Off'ring to thy Mem'ry bring,</l>
                         <l>And taught by thy great Worth ſhall boldly ſing.</l>
                      </lg>
@@ -1325,7 +1326,7 @@ Yet I this Off'ring to thy Mem'ry bring,</l>
                         <l>By Contemplation, Faith, and pow'rful Love,</l>
                         <l>She antedated all the Bliſs Above,</l>
                         <l>
-                           <pb n="32" facs="tcp:004593_0032_100DA7F0EE772C10"/>
+                           <pb n="32" facs="unknown:004593_0032_100DA7F0EE772C10"/>
 Till the briſk Springs of Nature loſt their Force,</l>
                         <l>And the Soul fleeting took the heav'nly Courſe.</l>
                      </lg>
@@ -1361,7 +1362,7 @@ Till the briſk Springs of Nature loſt their Force,</l>
                            <l>A Silver Thought, expreſs'd in ill-ſhap'd Ore,</l>
                            <l>Is all I wiſh; nor would I aſk for more.</l>
                            <l>
-                              <pb n="33" facs="tcp:004593_0033_100DA7F281A0FA18"/>
+                              <pb n="33" facs="unknown:004593_0033_100DA7F281A0FA18"/>
 To grace our Work, ſwift <hi>Merc'ry</hi> ſtands in View;</l>
                            <l>I've been a <hi>Living Merc'ry</hi> ſtill to you.</l>
                            <l>Tho' Ships, and tireſom Poſts Advices bring,</l>
@@ -1398,7 +1399,7 @@ To grace our Work, ſwift <hi>Merc'ry</hi> ſtands in View;</l>
                         </lg>
                      </div>
                      <div type="poem">
-                        <pb n="34" facs="tcp:004593_0034_100DA7F4B39EE7A0"/>
+                        <pb n="34" facs="unknown:004593_0034_100DA7F4B39EE7A0"/>
                         <head>Wrote in <hi>1721.</hi>
                         </head>
                         <epigraph>
@@ -1450,7 +1451,7 @@ To grace our Work, ſwift <hi>Merc'ry</hi> ſtands in View;</l>
                         </lg>
                         <lg>
                            <pb n="35"
-                               facs="tcp:004593_0035_100DA7F9C1D84E28"
+                               facs="unknown:004593_0035_100DA7F9C1D84E28"
                                rendition="simple:additions"/>
                            <l>Or, ſhall I nearer yet the Scene diſplay,</l>
                            <l>And ſpread <hi>Caeſaria</hi>'s Wealth in open Day;</l>
@@ -1499,7 +1500,7 @@ To grace our Work, ſwift <hi>Merc'ry</hi> ſtands in View;</l>
                            <l>To trace freſh Deeds, red War, and vaſt Deſign,</l>
                            <l>From the cold <hi>Artic</hi> to th' <hi>Antartic</hi> Line,</l>
                            <l>
-                              <pb n="36" facs="tcp:004593_0036_100DA7FB4E8285F8"/>
+                              <pb n="36" facs="unknown:004593_0036_100DA7FB4E8285F8"/>
 Our Types perform the hard, yet pleaſing, Toll,</l>
                            <l>And Science ſpread to Earth's remoteſt Iſle.</l>
                         </lg>
@@ -1548,7 +1549,7 @@ Our Types perform the hard, yet pleaſing, Toll,</l>
                            <l>You ſpend a ſerious Thought, forbear to ſmile;</l>
                            <l>
                               <pb n="37"
-                                  facs="tcp:004593_0037_100DA7FD807A67F0"
+                                  facs="unknown:004593_0037_100DA7FD807A67F0"
                                   rendition="simple:additions"/>
                               <hi>Britain</hi> againſt all Force, except her own,</l>
                            <l>Remains unhurt, whilſt <hi>George</hi> maintains the Throne;</l>
@@ -1585,7 +1586,7 @@ Our Types perform the hard, yet pleaſing, Toll,</l>
                      </div>
                   </div>
                   <div type="poem">
-                     <pb n="38" facs="tcp:004593_0038_100DA7FF746C0370"/>
+                     <pb n="38" facs="unknown:004593_0038_100DA7FF746C0370"/>
                      <head>On the Gift of a Boat, by <hi>W—M C—R,</hi> to him.</head>
                      <lg>
                         <l>MR. C—R, ſure you are much in the Wrong,</l>
@@ -1627,7 +1628,7 @@ Our Types perform the hard, yet pleaſing, Toll,</l>
                   </div>
                   <div type="poem">
                      <pb n="39"
-                         facs="tcp:004593_0039_100DA8033106E740"
+                         facs="unknown:004593_0039_100DA8033106E740"
                          rendition="simple:additions"/>
                      <head>To <hi>AQUILA ROSE,</hi> on Lamenting, in Sickneſs, to his Friend, of being ſeparated from his Friends and Companions in <hi>England.</hi>
                      </head>
@@ -1661,7 +1662,7 @@ Our Types perform the hard, yet pleaſing, Toll,</l>
                         <l>I'd not the Curſe for ſuch a Bliſs refuſe.</l>
                      </lg>
                      <lg>
-                        <pb n="40" facs="tcp:004593_0040_100DA804CD0A1E98"/>
+                        <pb n="40" facs="unknown:004593_0040_100DA804CD0A1E98"/>
                         <l>Go on, relate the Troubles thou haſt paſt;</l>
                         <l>And tho' I weep, pray dole me out the laſt.</l>
                         <l>So <hi>Dido,</hi> while <hi>Aeneas</hi> ſung his Woes,</l>
@@ -1701,7 +1702,7 @@ Our Types perform the hard, yet pleaſing, Toll,</l>
                         <l>More ſafe it were for me no Friends to claim</l>
                         <l>Than ſuch, who, trifling with a Poet's Name.</l>
                         <l>
-                           <pb n="41" facs="tcp:004593_0041_100DA806E81E4380"/>
+                           <pb n="41" facs="unknown:004593_0041_100DA806E81E4380"/>
 Have plac'd me in the Liſt of <hi>Phaebus'</hi> Sons:</l>
                         <l>Oh! had their Commendations paſs'd for Puns;</l>
                         <l>That I unprais'd <hi>Incognito</hi> might lain,</l>
@@ -1741,7 +1742,7 @@ Have plac'd me in the Liſt of <hi>Phaebus'</hi> Sons:</l>
                         <l>Oh Muſe! or Oh! thou little buſy Sprite,</l>
                         <l>That flutters in the Soul and urgeſt me to write,</l>
                         <l>
-                           <pb n="42" facs="tcp:004593_0042_100DA808A2DC7428"/>
+                           <pb n="42" facs="unknown:004593_0042_100DA808A2DC7428"/>
 Contented with the Reliſh of a Song,</l>
                         <l>Give to the Bright what can't to me belong.</l>
                         <l>Let Admiration of ſuperiour Lays</l>
@@ -1780,7 +1781,7 @@ Contented with the Reliſh of a Song,</l>
                         <l>With level Quills he circles down again,</l>
                         <l>And lighting, ſkims with Pleaſure on the Plain.)</l>
                         <l>
-                           <pb n="43" facs="tcp:004593_0043_100DA80A8264F9E0"/>
+                           <pb n="43" facs="unknown:004593_0043_100DA80A8264F9E0"/>
 Then, as in ſuch Poetic Wealth I grow,</l>
                         <l>More rich Applauſes ſhall my Muſe beſtow.</l>
                      </lg>
@@ -1826,7 +1827,7 @@ Then, as in ſuch Poetic Wealth I grow,</l>
                         <l>Angels (permit me) too may deign to ſee</l>
                         <l>Thoſe Characters ſublimely drawn by thee;</l>
                         <l>
-                           <pb n="44" facs="tcp:004593_0044_100D833FC67FA2A0"/>
+                           <pb n="44" facs="unknown:004593_0044_100D833FC67FA2A0"/>
 For not being preſent when a Soul imbib'd</l>
                         <l>Such vaſt Endowments as thou haſt deſcrib'd,</l>
                         <l>Would know from what caeleſtial Fount they ſprung,</l>
@@ -1860,7 +1861,8 @@ For not being preſent when a Soul imbib'd</l>
          <text xml:lang="eng">
             <front>
                <div type="title_page">
-                  <pb facs="tcp:004593_0045_100DA810211A7108" rendition="simple:additions"/>
+                  <pb facs="unknown:004593_0045_100DA810211A7108"
+                      rendition="simple:additions"/>
                   <p>A POEM TO THE MEMORY OF <hi>Aquila Roſe:</hi> Who died at <hi>Philadelphia, Auguſt</hi> the 22d, 1723. <hi>Aetat.</hi> 28.</p>
                   <p>BY ELIAS BOCKETT.</p>
                   <p>
@@ -1870,7 +1872,8 @@ For not being preſent when a Soul imbib'd</l>
             </front>
             <body>
                <div type="poems">
-                  <pb facs="tcp:004593_0046_100DA811B220FA30" rendition="simple:additions"/>
+                  <pb facs="unknown:004593_0046_100DA811B220FA30"
+                      rendition="simple:additions"/>
                   <head>To the MEMORY of <hi>AQUILA ROSE.</hi>
                   </head>
                   <div type="poem">
@@ -1893,7 +1896,7 @@ For not being preſent when a Soul imbib'd</l>
                         <l>Can ne'er retrieve — <hi>Amintas</hi> is no more!</l>
                      </sp>
                      <sp>
-                        <pb n="48" facs="tcp:004593_0047_100DA815223994D8"/>
+                        <pb n="48" facs="unknown:004593_0047_100DA815223994D8"/>
                         <speaker>DAMON.</speaker>
                         <p>Forbid it Heav'n —</p>
                      </sp>
@@ -1925,7 +1928,7 @@ For not being preſent when a Soul imbib'd</l>
                         </lg>
                         <lg>
                            <pb n="49"
-                               facs="tcp:004593_0048_100DA816B0236510"
+                               facs="unknown:004593_0048_100DA816B0236510"
                                rendition="simple:additions"/>
                            <l>To him the blooming <hi>Myra</hi> yields her Charms,</l>
                            <l>And faints with Pleaſure, folded in his Arms.</l>
@@ -1964,7 +1967,7 @@ For not being preſent when a Soul imbib'd</l>
                            <l>'Tis Fortune's common Paſtime to diſpenſe</l>
                            <l>To Fools her Favour, Scorn to Men of Senſe;</l>
                            <l>
-                              <pb n="50" facs="tcp:004593_0049_100DA818CD851EE0"/>
+                              <pb n="50" facs="unknown:004593_0049_100DA818CD851EE0"/>
 Deſert neglected with Delight ſhe ſees,</l>
                            <l>And Sots in gilded Chariots loll at Eaſe.</l>
                            <l>This once <hi>Amintas</hi> knew — but now no more</l>
@@ -1995,7 +1998,7 @@ Deſert neglected with Delight ſhe ſees,</l>
                            <l>"In thee was my Felicity complete,</l>
                            <l>"In thee, the Huſband and the Lover met —</l>
                            <l>
-                              <pb n="51" facs="tcp:004593_0050_100DA81B1BE41360"/>
+                              <pb n="51" facs="unknown:004593_0050_100DA81B1BE41360"/>
 "But Heav'n has ſnatch'd thee from me, and in vain</l>
                            <l>"I Heav'n invoke, to give thee back again."</l>
                            <l>Thus mourns the widow'd Fair in Sorrow drown'd,</l>
@@ -2025,7 +2028,7 @@ Deſert neglected with Delight ſhe ſees,</l>
                      </sp>
                   </div>
                   <div type="poem">
-                     <pb n="52" facs="tcp:004593_0051_100DA81D3B8C04C0"/>
+                     <pb n="52" facs="unknown:004593_0051_100DA81D3B8C04C0"/>
                      <head>The following Verſes were wrote by one of the Companions of <hi>AQUILA ROSE,</hi> who touching at <hi>Philadelphia,</hi> on his Way to <hi>Great Britain,</hi> had but Time to hear a Relation of his Friend's Death, view the Place of his Interment, and write theſe Lines, without Reviſing 'em; which he entituled, <hi>On Sight of</hi> Myris' <hi>Tomb, An ELEGY.</hi>
                      </head>
                      <lg>
@@ -2052,7 +2055,7 @@ Deſert neglected with Delight ſhe ſees,</l>
                         <l>And once with lawrel Wreaths his Brows entwin'd:</l>
                         <l>
                            <pb n="53"
-                               facs="tcp:004593_0052_100DA81F5D79BEF0"
+                               facs="unknown:004593_0052_100DA81F5D79BEF0"
                                rendition="simple:additions"/>
 No longer now, her Inſpiration warms;</l>
                         <l>No more thro' him we view the Muſes Charms!</l>
@@ -2089,7 +2092,7 @@ No longer now, her Inſpiration warms;</l>
                         <l>If holy Friendſhip Bleſſings does afford,</l>
                         <l>If godlike Goodneſs ought to be ador'd;</l>
                         <l>
-                           <pb n="54" facs="tcp:004593_0053_100DA820F5366408"/>
+                           <pb n="54" facs="unknown:004593_0053_100DA820F5366408"/>
 Then <hi>Myris</hi> none can injure thy fair Fame,</l>
                         <l>Vertue ſecures thee an immortal Name.</l>
                      </lg>
@@ -2132,7 +2135,7 @@ Then <hi>Myris</hi> none can injure thy fair Fame,</l>
                         <l>Now, grateful Muſe, thy mournful Labour ceaſe,</l>
                         <l>And let his honour'd Aſhes reſt in Peace:</l>
                         <l>
-                           <pb n="55" facs="tcp:004593_0054_100DA82378A290D0"/>
+                           <pb n="55" facs="unknown:004593_0054_100DA82378A290D0"/>
 Endleſs his many Vertues to rehearſe,</l>
                         <l>A Taſk unequal to thy humble Verſe.</l>
                      </lg>
@@ -2189,7 +2192,7 @@ Endleſs his many Vertues to rehearſe,</l>
                         </l>
                      </lg>
                      <lg>
-                        <pb n="56" facs="tcp:004593_0055_100DA825B250C0A8"/>
+                        <pb n="56" facs="unknown:004593_0055_100DA825B250C0A8"/>
                         <l>Ah! why ſo ſad? ye Shepherds, why ſo mute?</l>
                         <l>Are all your wretched Pipes forever fled?</l>
                         <l>Now breathleſs Silence dwells on ev'ry Lute,</l>
